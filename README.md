@@ -5,3 +5,5 @@ Analyzing data from a bank's marketing campaign aimed at acquiring more deposits
 ![](./excel-dashboard-screenshot2.png)
 
 ## Goal of this analysis
+* See see which factors appear to influence customers’ decision to subscribe to term deposits
+* By understanding the contributing factors to customer subscription behaviour, the bank can tailor their marketing strategies to improve their chances at acquiring more customers
