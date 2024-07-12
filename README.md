@@ -4,4 +4,4 @@ Analyzing data from a bank's marketing campaign aimed at acquiring more deposits
 ![](./excel-dashboard-screenshot1.png)
 ![](./excel-dashboard-screenshot2.png)
 
-## Goal of this analysis
+### Goal of this analysis
