@@ -1,4 +1,4 @@
-# Bank-Target-Marketing-Dashboard
+# Bank Target Marketing Dashboard
 Analyzing data from a bank's marketing campaign aimed to acquire more customer deposits. The dashboard was created with Excel. To view the dashboard, download the Excel file in this repository.
 
 ![](./dashboard-screenshot1.png)
